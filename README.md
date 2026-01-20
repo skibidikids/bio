@@ -3,11 +3,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+like+hot+dog;+Because+its+not+a+dog;+Do+you+like+hot+dog)](https://git.io/typing-svg)
 
-![Foo_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=skibidikids&show_icons=true&theme=vue-dark)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skibidikids&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=skibidikids&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 # Twitter
 <p align="left">
@@ -16,11 +13,11 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=python,javascript,github,vscode,docker" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=python,github,vscode,docker" /> <br /><br />
 
 # Editor
 <p align="left">
-Cursor,VScode
+VScode
   </p> 
   
 # NOW TRAINING
